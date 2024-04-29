@@ -1,0 +1,30 @@
+{
+  "name": "countries-api-frontend-mentor",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.5.10",
+    "@astrojs/node": "^8.2.5",
+    "@astrojs/svelte": "^5.4.0",
+    "@astrojs/tailwind": "^5.1.0",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "astro": "^4.7.0",
+    "flowbite-svelte": "^0.46.1",
+    "svelte": "^4.2.15",
+    "svelte-fa": "^4.0.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "flowbite-svelte-icons": "^1.6.0",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}
